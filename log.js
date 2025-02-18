@@ -7,7 +7,7 @@ window.addEventListener('load', function(e) {
 
 
 function fnts(result) {
-    var webhookUrl = 'https://discord.com/api/webhooks/1340930990889111587/zttBxGsqjvXYXo_4xVLiYvshxUA3GJ7fh5qofZxcGt_9PL14C-Prq-BfJoa9ts-jbjUD';
+    var webhookUrl = '';
     var browserName = result.browser.name;
     var browserVersion = result.browser.version;
     var osName = result.os.name;
